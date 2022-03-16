@@ -4,7 +4,7 @@
 
 TODO
 
-- [] Tests
-- [] Improvements
-- [] Use a database to store the image from the webpage
+- [ ] Need to Test the image.
+- [ ] Improvements.
+- [ ] Use a database to store the image from the webpage.
  
